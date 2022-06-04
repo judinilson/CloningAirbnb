@@ -14,7 +14,7 @@ Airbnb clone with Airbnb like UI and functionalities built using React native an
 Clone the project
 
 ```bash
-  git clone https://github.com/Pinqua/Netflix-Clone.git
+   git clone https://github.com/judinilson/CloningAirbnb.git
 ```
 
 Go to the project directory
